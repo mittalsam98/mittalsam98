@@ -47,12 +47,6 @@ I'm a passionate Full Stack Web And App Developer and I am interested in develop
 <br/>
 
 
-[![Sachin's github activity graph](https://activity-graph.herokuapp.com/graph?username=mittalsam98&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-<br/>
-<br/>
-
 ## Connect with me:
 
 ## ❤ Views and Followers
