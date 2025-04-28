@@ -10,6 +10,7 @@ I'm a passionate Full Stack Web And App Developer and I am interested in develop
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
+- Founder - https://www.frontenddev.site/
 - My website - https://myself.now.sh
 
 ## 🚀 Languages and Tools:
